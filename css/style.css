@@ -226,7 +226,7 @@ main p{
   align-items: center;
   font-size: 2rem;
   color: #ffffff;
-  padding-top: 15px;
+  padding-top: 10px;
 }
 
 .medium-inner {
@@ -304,6 +304,11 @@ main p{
 }
 .contact{
     margin-bottom: 3rem;
+}
+.last{
+    font-weight: bold;
+    text-align: center;
+    padding: 1rem 2rem;
 }
 .to-top {
   position: fixed;
