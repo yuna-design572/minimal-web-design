@@ -169,6 +169,7 @@ main p{
 }
 .top-btn{
     text-align: center;
+    margin: 0 auto;
 }
 /* about */
 .about h3{
