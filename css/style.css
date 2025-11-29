@@ -171,7 +171,6 @@ main p{
     text-align: center;
     margin: 0 auto;
     margin: 2rem 0;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 /* about */
 .about h3{
@@ -303,7 +302,6 @@ main p{
     font-size: 2rem;
       transition: transform 0.2s ease;
       display: inline-block;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 .contact-btn:hover{
      transform: scale(1.1);
