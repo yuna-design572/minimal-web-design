@@ -173,6 +173,23 @@ main p{
 .service{
     margin-bottom: 2rem;
 }
+/* オレンジの帯 */
+.medium-band {
+  width: 100%;
+  height: 80px; /* 太さ（ゆなが調整してOK） */
+  background-color: #FF8A3D; /* オレンジ */
+  text-align: center;
+  align-items: center;
+  font-size: 2rem;
+  color: #ffffff;
+  padding-top: 15px;
+}
+
+.medium-inner {
+  padding: 20px 0;
+  text-align: center;
+}
+
 /* flow */
 .number{
     color: #FF8A3D;
@@ -182,6 +199,9 @@ main p{
 }
 .flow p{
     font-weight: bold;
+}
+.flow{
+    padding: 0 2rem;
 }
 /* works */
 .works img{
@@ -215,8 +235,8 @@ main p{
     margin-bottom: 2rem;
 }
 .contact-btn{
-    border: 4px solid #FF8A3D;
-    background-color: #ffffff;
+    background-color:  #FF8A3D;
+    color: #ffffff;
     width: 300px;
     padding: 4px 40px;
     font-size: 2rem;
@@ -246,7 +266,7 @@ main p{
 /* footer */
 footer{
     text-align: center;
-    background-color: #FF8A3D;
+
 }
 
 
